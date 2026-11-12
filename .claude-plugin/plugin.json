@@ -1,6 +1,7 @@
 {
   "name": "blockchain-iq",
-  "version": "0.1.3",
+  "displayName": "Blockchain IQ",
+  "version": "0.1.4",
   "description": "Read-only Blockchain IQ data, analytics and research on blockchain technology: free dashboards, reports, coin research and Dispatches. No account needed.",
   "author": { "name": "GJL Digital Investments, LLC", "url": "https://www.blockchainiq.co" },
   "homepage": "https://www.blockchainiq.co/connector",
