@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "blockchain-iq": {
+      "type": "http",
+      "url": "https://www.blockchainiq.co/api/mcp/free"
+    }
+  }
+}

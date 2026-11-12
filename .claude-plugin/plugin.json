@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-iq",
+  "version": "0.1.0",
+  "description": "Read-only Blockchain IQ crypto research: free dashboards, reports, coin research, dispatches and the x402 catalogue index. No account needed.",
+  "author": { "name": "GJL Digital Investments, LLC", "url": "https://www.blockchainiq.co" },
+  "homepage": "https://www.blockchainiq.co/connector",
+  "repository": "https://github.com/jgmale123/blockchain-iq-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.blockchainiq.co/privacy",
+  "keywords": ["crypto", "blockchain", "research", "dashboards", "mcp"]
+}
