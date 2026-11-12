@@ -1,12 +1,12 @@
 {
   "name": "blockchain-iq-marketplace",
-  "description": "Blockchain IQ read-only crypto research plug-in.",
+  "description": "Blockchain IQ read-only blockchain data, analytics and research plug-in.",
   "owner": { "name": "GJL Digital Investments, LLC" },
   "plugins": [
     {
       "name": "blockchain-iq",
       "source": "./",
-      "description": "Read-only Blockchain IQ crypto research connector with skills and commands. No account needed."
+      "description": "Read-only Blockchain IQ blockchain data, analytics and research connector with skills and commands. No account needed."
     }
   ]
 }
