@@ -1,6 +1,6 @@
 {
   "name": "blockchain-iq",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read-only Blockchain IQ crypto research: free dashboards, reports, coin research, dispatches and the x402 catalogue index. No account needed.",
   "author": { "name": "GJL Digital Investments, LLC", "url": "https://www.blockchainiq.co" },
   "homepage": "https://www.blockchainiq.co/connector",
